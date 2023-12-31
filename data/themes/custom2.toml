@@ -1,0 +1,29 @@
+# Theme metadata
+name = "Custom Theme"
+
+[light]
+  # Primary
+  primary = "#679186" 
+
+  # Links
+  link = "#264E70"
+  link_hover = "#264E70"
+
+  # Menu
+  menu_primary = "#264E70" #Background
+  menu_text = "#ffffff" 
+  menu_text_active = "#ffffff"
+  menu_title = "#ffffff"
+
+  # Home sections
+  background = "#264E70"
+  home_section_odd = "#eeeeee"
+  home_section_even = "#bcbcbc" #"#eee8dd"
+  text_home_section_odd = "#264E70"
+  text_home_section_even = "#264E70"
+
+  # Secondary Pages
+  secondary_background = "#CCCCCC"
+  secondary_text = "#333333"
+  secondary_link = "#FF9900"
+  secondary_link_hover = "#FFCC00"
