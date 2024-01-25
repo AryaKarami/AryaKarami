@@ -1,6 +1,6 @@
 ---
 title: Network Stochastic Processes and Time Series (NeST)
-summary: In this research, we closely explore the Hawkes Network Stochastic Processes and Time Series (NeST), a method for understanding how events depend on each other. Over the past 50 years, we've seen different versions of this process. We aim to create a single, easy-to-use solution for 12 variations. By doing this, we hope to make it simpler for everyone to study and predict how things relate in various fields, all while building on the decades-long history of Hawkes models. We introduce a practical solution by using a general Bayesina approach.
+summary: In this research, we closely explore the Hawkes Network Stochastic Processes and Time Series (NeST), a method for understanding how events depend on each other. Over the past 50 years, we've seen different versions of this process. We aim to create a single, easy-to-use solution for 12 variations. By doing this, we hope to make it simpler for everyone to study and predict how things relate in various fields, all while building on the decades-long history of Hawkes models. We introduce a practical solution by using a general Bayesian approach.
 tags:
   - NeST
 date: '2023-12-01T00:00:00Z'
